@@ -55,6 +55,7 @@ Adapun tujuan penulisan makalah ini adalah:
 **B. Sejarah Konflik antara Sains dan Agama**
 
 Pada abad kegelapan, penyelesaian sebuah konflik atau masalah hanya didasarkan pada Tuhan maupun kitab suci. Hal ini menjadikan Tuhan sebagai sumber tertinggi bukan hanya dalam makna, melainkan juga dalam hal otoritas. Sekarang, hal ini telah berubah. Selama berabad-abad, humanisme telah berusaha meyakinkan bahwa manusia merupakan sumber tertinggi sehingga bebas mengandalkan pikiran dan perasaan sendiri. 
+
 Kemudian, pada masa kebangkitan, konflik berakar pada perdebatan validitas kebenaran antara pengamatan empiris sains dan agama. Harari menyatakan walaupun sains lebih banyak berkontribusi pada perdebatan etis, tanpa bimbingan dari agama, tatanan sosial berskala besar tidak mungkin bertahan.
 
 **C. Perbedaan Metodologis antara Sains dan Agama**
