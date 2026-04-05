@@ -27,6 +27,15 @@ Kenapa agama mengurus moral? Secara sosiologis, agama tidak dirancang sebagai ju
 ### Argumen Filosifis Evolusioner (NOMA): 
 
 Sebagai landasan teoritis untuk mempertahankan tesis independensi sains dan agama, argumen ini bersandar pada gagasan ahli paleontologi Stephen Jay Gould mengenai Non-Overlapping Magisteria (NOMA). Gould secara tajam memetakan bahwa sains dan agama beroprasi pada dua yurisdiksi yang secara kategoris berbeda dan tidak saling teumpang tindih. Sains memegang ototritas mutlak atas inkuiri empiris-bertugas menjelaskan anatomi alam semesta beserta fakta materialnya. Di sisi lain, otoritas agama terletak secara ekslusif pada ranah nilai moral dan pencarian makna absolut (ultimate meaning). Berpijak pada logika ini, mendesak teks suci untuk memberikan penjabaran matematis terkait hkum gravitasi merupakan kecacatan logika, persis sama irelevannya dengan memaksa sebuah jurnal biologi molekuler untuk merumuskan batasan etis mengenai tidaknya praktik kloning pada manusia.
+  - Suyanto. (2024). Filsafat Ilmu - Paradigma dan Perubahan Ilmiah di Era Modern. UNIVERSITAS IPWIJA Repository. Halaman 228.
 
-### 
+
+### Argumen Tipologi Ian Barbour:
+
+Memandang agama murni sebagai penjaga nilai moral merupaka nbentuk perwujudan relasi Independensi dan Dialog dalam tipologi Ian Barbour. Dalam kajian filsafat sains, model ini membatasi sains dan agama pada metodnya masing-masing tanpa harus saling meniadakan eksistentsinya. 
+ - Berdasarkan Jurnal Religion: Jurnal Agama, Sosial, dan Budaya, Arief (2022), Vol 1(2), Halaman 3-4
+
+# Kesimpulan
+
+Berdasarkan analisis diatas, dapat disimpulkan bahwa hubungan antara sains dan agama bersifat kompleks namun komplementer jika ditempatkan pada proposisinya. Agama difokuskan untuk membahas pedoman moral, etika, dan makna hidup yang bersifat sakral. Sedangkan sains difokuskan pada observasi empiris untuk menjelaskan fenomena alam semesta secara faktual. keduanya beroprasi menggunakan algoritma epsitemologis yang berbeda, namun mutlak dibutuhkan untuk menjaga keseimbangan tatanan masyarakat dan kemajuan peradaban.
 
