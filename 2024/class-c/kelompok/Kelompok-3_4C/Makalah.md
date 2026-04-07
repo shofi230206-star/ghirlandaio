@@ -67,11 +67,17 @@ Makalah ini telah kami susun dengan maksimal dan mendapatkan bantuan dari berbag
 **1.3. Tujuan Penulisan**
 <p align="justify">
 1. Untuk mengetahui pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang.
+<br>
 2. Untuk mengetahui pola hubungan antara swasta dan teknologi pada rentang tahun 1960-sekarang.
+<br>
 3. Untuk memahami implementasi dan kontribusi hacking culture dalam pengembangan teknologi modern.
+<br>
 4. Untuk memahami sejarah dan pola hubungan antara kode sumber terbuka dan kode sumber tertutup rentang tahun 1970-an sampai sekarang.
+<br>
 5. Untuk mengetahui sikap terhadap kode sumber terbuka dan kode sumber tertutup.
+<br>
 6. Untuk memahami hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi.
+<br>
 </p>
 
 <br>
@@ -85,7 +91,7 @@ Makalah ini telah kami susun dengan maksimal dan mendapatkan bantuan dari berbag
 Dalam buku Troublemakers: Silicon Valley Coming of Age, pada tahun 1960, awalnya teknologi sangat bergantung pada negara, terutama departemen pertahanan atau militer melalui lembaga ARPA (Advanced Research Projects Agency) yang dibentuk pada tahun 1958 memberikan dana yang besar untuk penelitian seperti ARPANET (Advanced Research Project Agency Network) yaitu jaringan awal sebuah internet yang diteliti oleh Bob Taylor.
 </p>
 <p align="justify">
-Tidak hanya bekerja sama dengan negara tetapi pada tahun 1970-an universitas juga bergabung dengan cara mendanai para ilmuwan dan memfasilitasi laboratorium karena itu teknologi mulai berkembang dari riset menjadi inovasi nyata, contohnya sperti universitas yang mulai mengubah penelitian menjadi komersial dan ARPANET yang mulai menghubungkan ke kampus-kampus. JAdi, pada tahun ini negara mulai berkolaborasi dengan akademisi dengan menggunakan penelitian melalui para ilmuwan.
+Tidak hanya bekerja sama dengan negara tetapi pada tahun 1970-an universitas juga bergabung dengan cara mendanai para ilmuwan dan memfasilitasi laboratorium karena itu teknologi mulai berkembang dari riset menjadi inovasi nyata, contohnya sperti universitas yang mulai mengubah penelitian menjadi komersial dan ARPANET yang mulai menghubungkan ke kampus-kampus. Jadi, pada tahun ini negara mulai berkolaborasi dengan akademisi dengan menggunakan penelitian melalui para ilmuwan.
 </p>
 <p align="justify">
 Pada tahun transisi 1979-1984 Teknologi mulai dikomersilkan oleh negara kepada perusahaan swasta seperti Apple, Atari, dll. Muncul inverstor, venture capital, dan startup. Meskipun awalnya negara berperan sebagai pengendali tetapi pada masa ini peran negra berubah, menjadi pendukung  dan regulator yang memberikan aturan atau ketentuan. 
@@ -98,12 +104,11 @@ Pada masa sekarang lembaga ARPA berubah menjadi DARPA (Defense Advanced Projects
 
 
 **2.3. Implementasi dan Kontribusi _Hacking Culture_ dalam Pengembangan Teknologi Modern**
-
 <p align="justify">
 Pada buku Troublemakers, hacking culture (budaya peretasan) merupakan awal munculnya industri komputer pribadi di Silicon Valley. Budaya ini diimplementasikan serta didorong oleh rasa ingin tahu dan keinginan untuk mendemostrasikan teknologi melalui komunitas. Komunitas tersebut seperti Homebrew Computer Club, dimana mereka memiliki kesabaran untuk mengetik rangkaian karakter panjang demi membuat komputer melakukan tugas yang paling sederhana. 
 </p>
 <p align="justify">
-Implementasi hacking culture dalam praktik kerja menekankan eksplorassi dan eksperimen bebas. Di lingkungan seperti APRA dan Xerox PARC, para peneliti diberi kebebasan untuk mengembangkan ide-ide baru tanpa batasan birokrasi. Contohnya Bob Taylor yang secara sengaja melanggar prosedur formal di Pentagon demi mempercepat komunikasi dan pengambilan keputusan. Tindakan ini mencerminkan prinsip utama hacking culture, yaitu fokus pada solusi efektif daripada kepatuhan terhadap sistem yang kaku. Hacking culture diimplementasikan melalui eksperimen mandiri dan kolaborasi komunitas yang inklusif. 
+Implementasi hacking culture dalam praktik kerja menekankan eksplorasi dan eksperimen yang bebas. Di APRA, para peneliti diberi kebebasan untuk mengembangkan ide-ide baru tanpa adanya batasan birokrasi. Contohnya Bob Taylor yang secara sengaja melanggar prosedur formal di Pentagon demi mempercepat komunikasi dan pengambilan keputusan. Tindakan ini mencerminkan prinsip utama hacking culture, yaitu fokus pada solusi efektif daripada kepatuhan terhadap sistem yang kaku. Hacking culture diimplementasikan melalui eksperimen mandiri dan kolaborasi komunitas yang inklusif. 
 </p>
 <p align="justify"> 
 Sedangkan itu, Kontribusi hacking culture terhadap teknologi modern adalah lahirnya teknologi dasar seperti internet melalui pengembangan ARPANET, komputer pribadi, jaringan internet, dan teknologi antarkemuka pengguna. Konsep "superkomunitas" yang dikembangkan oleh Bob Taylor menunjukkan bagaimana teknologi dapat menghubungkan manusia tanpa batas geografis. Mereka mengembangkan berbagi teknologi melalui pendekatan tanpa trial and error yang menunjukkan kegagalan merupakan bagian dari proses inovasi.
@@ -118,12 +123,13 @@ Hacking culture turut membentuk ekosistem Silicon Valley sebagai pusat inovasi g
 **2.4. Sejarah dan Pola Hubungan antara Kode Sumber Terbuka dan Kode Sumber Tertutup**
 
 **2.5. Sikap terhadap Kode Sumber Terbuka dan Kode Sumber Tertutup**
- 
 <p align="justify">
 Dalam Das Kapital, Karl Marx menjelaskan bahwa dalam sistem kapitalisme, kekayaan masyarakat dipandang sebagai kumpulan besar komoditas, dimana nilai suatu benda tidak hanya ditentukan oleh kegunaannya, tapi terutama oleh nilai tukarnya. Komoditas adalah segala sesuatu yang mampu memenuhi kebutuhan manusia, baik kebutuhan fisik maupun nonfisik, dan nilai guna suatu benda hanya menjadi nyata ketika digunakan atau dikonsumsi. Namun, dalam kapitalisme, nilai tukar menjadi lebih dominan, sehingga segala sesuatu, termasuk pengetahuan dan teknologi, dapat dikomodifikasi atau dijadikan sebagai barang yang diperjualbelikan. Dalam konteks ini, teknologi tidak lagi sekadar alat bantu manusia, melainkan berubah menjadi instrumen ekonomi yang digunakan untuk meningkatkan produktivitas dan menghasilkan nilai lebih (surplus value), bahkan seringkali menggantikan tenaga kerja manusia. Dengan demikian, teknologi dalam kapitalisme cenderung memperparah eksploitasi dan memperlebar ketimpangan sosial.
 </p>
 <p align="justify">
-Sementara itu, dalam Troublemakers of Silicon Valley, digambarkan bahwa pada awal perkembangan teknologi komputer, khususnya melalui komunitas Homebrew Computer Club pada tahun 1970-an, terdapat semangat yang sangat berbeda dari logika kapitalisme. Komunitas ini didirikan sebagai wadah bagi para penggemar komputer untuk belajar, berbagi pengetahuan, dan mengembangkan teknologi secara bersama-sama. Bagi mereka, proses menciptakan teknologi sama pentingnya dengan hasil akhirnya, dan komputer dipandang sebagai alat untuk kemanusiaan serta keadilan sosial. Nilai-nilai yang dianut oleh komunitas ini mencerminkan prinsip yang kini dikenal sebagai open source, yaitu keterbukaan, kolaborasi, dan kebebasan dalam mengakses serta memodifikasi teknologi. Mereka tidak berorientasi pada keuntungan, melainkan pada pembelajaran kolektif dan pemberdayaan masyarakat. Bahkan, komunitas ini memiliki sikap anti terhadap perusahaan besar dan monopoli, yang dianggap membatasi kebebasan dalam berbagi pengetahuan. 0000000
+Sementara itu, dalam Troublemakers of Silicon Valley, digambarkan bahwa pada awal perkembangan teknologi komputer, khususnya melalui komunitas Homebrew Computer Club pada tahun 1970-an, terdapat semangat yang sangat berbeda dari logika kapitalisme. Komunitas ini didirikan sebagai wadah bagi para penggemar komputer untuk belajar, berbagi pengetahuan, dan mengembangkan teknologi secara bersama-sama. Bagi mereka, proses menciptakan teknologi sama pentingnya dengan hasil akhirnya, dan komputer dipandang sebagai alat untuk kemanusiaan serta keadilan sosial. Nilai-nilai yang dianut oleh komunitas ini mencerminkan prinsip yang kini dikenal sebagai open source, yaitu keterbukaan, kolaborasi, dan kebebasan dalam mengakses serta memodifikasi teknologi. Mereka tidak berorientasi pada keuntungan, melainkan pada pembelajaran kolektif dan pemberdayaan masyarakat. Bahkan, komunitas ini memiliki sikap anti terhadap perusahaan besar dan monopoli, yang dianggap membatasi kebebasan dalam berbagi pengetahuan.
+<br>
+
 **2.6. Hubungan antara Kode Sumber Terbuka dan Kode Sumber Tertutup**
 
 
