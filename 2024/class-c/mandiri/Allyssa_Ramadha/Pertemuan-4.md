@@ -15,7 +15,7 @@ dimasa saat ini.
 
 ### Metode
 
-Metode yang saya gunakam dalam penulisan resume ini adalah studi literatur, dengan menjadikan buku Das Kapital karya Karl Marx sebagai sumber utaman untuk memahami konsep eksploitasi
+Metode yang saya gunakam dalam penulisan resume ini adalah studi literatur, dengan menjadikan buku Das Kapital karya Karl Marx sebagai sumber utama untuk memahami konsep eksploitasi
 tenaga kerja.
 
 ### Isi
