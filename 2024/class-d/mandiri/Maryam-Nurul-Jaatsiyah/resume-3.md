@@ -1,7 +1,8 @@
 # Resume presentasi kelompok 3 "Evolusi Relasi antara Negara, Sektor Swasta, dan Teknologi (1960–Sekarang): Peran Budaya Hacking serta Paradigma Open dan Closed Source"
 ## Nama: Maryam Nurul Jaatsiyah 
-## NIM:12402051030097
+## NIM: 12402051030097
 ## Mata Kuliah: Perpustakaan dan Arsip Digital
+## Dosen Pengampu: Al Muhdil Karim, S.IP., M.Hum.
 
 ## Pendahuluan 
 Hubungan antara negara dan teknologi mengalami perubahan, yang awalnya didominasi oleh negara menjadi lebih kompleks. Negara tidak lagi menjadi aktor utama, melainkan berbagi peran dengan sektor swasta. Negara kembali aktif dalam pengembangan teknologi strategis, setelah sektor swasta mengambil peran lebih dalam pengembangan teknologi. Perusahaan teknologi besar memiliki kekuatan yang sangat besar, baik dari segi ekonomi maupun penguasaan data. Hal ini menciptakan hubungan yang bersifat interdependen antara negara dan teknologi, di mana negara membutuhkan teknologi untuk mempertahankan kekuasaan dan keamanan, sementara teknologi berkembang dalam kerangka ekonomi global yang sering kali melampaui batas-batas negara.
