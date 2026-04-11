@@ -16,4 +16,4 @@ Para peretas (troublemakers) yang ada di dalam buku ini merupakan kumpulan indiv
 Definisi *hacking* yang sebenarnya bukan kegiatan berupa meretas dan mengeksploitasi suatu sistem digital demi keuntungan pribadi, melainkan tindakan membongkar, memahami, dan menyusun kembali suatu teknologi agar teknologi tersebut menjadi lebih baik. Karena banyaknya orang yang meretas suatu sistem hingga melakukan kejahatan, banyak pula masyarakat yang menganggap *hacking* merupakan perbuatan kriminal yang menggunakan suatu sistem atau data untuk kepentingannya sendiri. Dari pembahasan resume di atas, sudah dijelaskan bahwa *hacking* melakukan peretasan yang berfokus memahami cara kerja teknologi dan pengembangan teknologi. 
 
 ## DAFTAR PUSTAKA
-Berlin, L. (2017). Troublemakers: Silicon Valley’s Coming of Age. Simon & Schuster.
+Berlin, L. (2017). *Troublemakers: Silicon Valley’s Coming of Age*. Simon & Schuster.
